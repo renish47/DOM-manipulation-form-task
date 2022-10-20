@@ -79,8 +79,7 @@ function clear(){
   fname.value=''
   lname.value=''
   pin.value=''
-  add1.value=''
-  add2.value=''
+  add.value=''
   state.value=''
   country.value=''
   var checkBox = document.getElementsByName("food");
