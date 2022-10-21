@@ -10,9 +10,7 @@ label{
   color: black;
 }
 
-body{
-  background-color: rgb(251, 248, 243);
-}
+
 .textBox{
   border: 1px solid rgb(232, 232, 232);
   padding: 4px;
@@ -50,3 +48,4 @@ input{
   outline: none !important;
   box-shadow: none;
 }
+
